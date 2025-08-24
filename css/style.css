@@ -111,10 +111,13 @@ section .sec-content{
 
 
 /* WORK */
+#work{
+   gap: 30px; 
+}
+
 #work .sec-content{
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 30px;
 }
 
 #work .sec-content li{
