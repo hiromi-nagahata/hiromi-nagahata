@@ -114,7 +114,7 @@ section .sec-content{
 #work .sec-content{
     justify-content: space-between;
     flex-wrap: wrap;
-    margin: 50px;
+    gap: 50px;
 }
 
 #work .sec-content li{
