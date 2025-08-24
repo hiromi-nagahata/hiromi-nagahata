@@ -111,10 +111,6 @@ section .sec-content{
 
 
 /* WORK */
-#work{
-   gap: 30px; 
-}
-
 #work .sec-content{
     justify-content: space-between;
     flex-wrap: wrap;
@@ -123,6 +119,7 @@ section .sec-content{
 #work .sec-content li{
     width: 32%;
     text-align: center;
+    margin-top: 50px;
 }
 
 
