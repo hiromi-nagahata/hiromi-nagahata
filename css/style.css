@@ -114,12 +114,12 @@ section .sec-content{
 #work .sec-content{
     justify-content: space-between;
     flex-wrap: wrap;
+    gap: 50px;
 }
 
 #work .sec-content li{
     width: 32%;
     text-align: center;
-    margin-top: 50px;
 }
 
 
