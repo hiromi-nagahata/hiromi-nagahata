@@ -114,12 +114,16 @@ section .sec-content{
 #work .sec-content{
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 50px;
+    gap: 100px;
 }
 
 #work .sec-content li{
     width: 32%;
     text-align: center;
+}
+
+#work .sec-content h3{
+   margin-top: 30px;
 }
 
 
@@ -175,7 +179,7 @@ section#works-page{
     }
 
     #work .sec-content{
-        gap: 30px;
+        gap: 100px;
     }
 
 
