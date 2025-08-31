@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4d4d4d;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: Avenir-Oblique, Avenir;
+        font-size: 200px;
+        font-style: oblique;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="1900" height="500"/>
+  <text class="cls-3" transform="translate(186.71 310.4)"><tspan x="0" y="0">Hi</tspan><tspan class="cls-2" x="192.4" y="0">r</tspan><tspan x="259.19" y="0">omi Nagahata</tspan></text>
+</svg>
