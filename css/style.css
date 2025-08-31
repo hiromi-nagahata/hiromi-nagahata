@@ -126,10 +126,6 @@ section .sec-content{
    margin-top: 30px;
 }
 
-video{
-    width: 50%;
-}
-
 
 /* footer */
 footer{
@@ -185,12 +181,7 @@ section#works-page{
         gap: 100px;
     }
 
-
     #work .sec-content li{
-        width:100%;
-    }
-
-    video{
         width:100%;
     }
 
