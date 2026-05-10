@@ -137,6 +137,50 @@ section .sec-content{
     width: 100%;
 }
 
+#work .js-popup-image{
+    cursor: pointer;
+    transition: opacity .3s;
+}
+
+#work .js-popup-image:hover{
+    opacity: .75;
+}
+
+.image-popup{
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    background: rgba(0, 0, 0, .8);
+}
+
+.image-popup.is-active{
+    display: flex;
+}
+
+.image-popup img{
+    max-width: 90vw;
+    max-height: 90vh;
+    object-fit: contain;
+}
+
+.image-popup-close{
+    position: absolute;
+    top: 20px;
+    right: 25px;
+    color: #fff;
+    font-size: 2.5rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.image-popup-close:hover{
+    opacity: .7;
+}
+
 
 /* footer */
 footer{
