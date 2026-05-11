@@ -182,6 +182,11 @@ section .sec-content{
 }
 
 
+/*slider*/
+.sv{
+    margin-top: 50px;
+}
+
 /* footer */
 footer{
     text-align: center;
