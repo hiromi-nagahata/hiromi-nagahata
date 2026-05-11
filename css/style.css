@@ -184,7 +184,7 @@ section .sec-content{
 
 /*slider*/
 .slider-area{
-    margin-top: 100px;
+    padding-top: 100px;
 }
 
 .sv{
